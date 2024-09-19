@@ -4,7 +4,8 @@ The Nutri Suggest food recommendation system is an intelligence platform that pr
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. I makink a simple app for food recommendation system. I also creating a .ipynb file for implementation machine learnig algorithm. This file name is "Nutri_Suggest_Food_recommendation_system.ipynb"
+This project is a starting point for a Flutter application. I makink a simple app for food recommendation system. I also creating a .ipynb file for implementation machine learnig algorithm. This file name is "Nutri_Suggest_Food_recommendation_system.ipynb" 
+link: https://colab.research.google.com/drive/165jC9-vqEkMXx9jO-ZMIeTijYEclrQhH
 
 A few resources to get you started if this is your first Flutter project:
 
