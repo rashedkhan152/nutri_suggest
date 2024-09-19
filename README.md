@@ -1,6 +1,6 @@
 # nutri_suggest
 
-A new Flutter project.
+The Nutri Suggest food recommendation system is an intelligence platform that provides personalized dietary recommendations based on lifestyle, health requirements, and personal preferences. The system analyzes user data, including age, gender, weight, and specific dietary goals, using Machine Learning (ML) and Artificial Intelligence (AI) algorithms to recommend meals that are customized for each user. In order to provide recommendations that support improved health outcomes, it also takes into account medical disorders like diabetes or high blood pressure. The study is based on a sizable dataset from Kaggle, ensuring that the system's recommendations are reliable, and data driven. In addition, a user-friendly mobile app has been created to increase user accessibility to the system. Nutri Suggest strives to improve general health and well-being by assisting people in making knowledgeable eating decisions. 
 
 ## Getting Started
 
