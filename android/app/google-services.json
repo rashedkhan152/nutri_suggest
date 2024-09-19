@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "182577790958",
+    "project_id": "nutri-suggest",
+    "storage_bucket": "nutri-suggest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182577790958:android:c4773e8e3253c9cd3398ff",
+        "android_client_info": {
+          "package_name": "com.fazlerabbikhan.nutrisuggest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182577790958-8t4rtub329arno06ndch0gdku6fqktla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazlerabbikhan.nutrisuggest",
+            "certificate_hash": "dbc7f1d10720ccf976c61aead40fed432df1da1c"
+          }
+        },
+        {
+          "client_id": "182577790958-dfjriu3p7950jan3auepe2g1udjmiuft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazlerabbikhan.nutrisuggest",
+            "certificate_hash": "33520443b6c348157e45c690e68a06479cb511ae"
+          }
+        },
+        {
+          "client_id": "182577790958-hle7q500fm1eimutod6o0mjsqvcdirbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fazlerabbikhan.nutrisuggest",
+            "certificate_hash": "d1d5f56bff07d1731b6201e1e210c352d147d196"
+          }
+        },
+        {
+          "client_id": "182577790958-6junmjmirpv2vpll34skqpn7a5jgp4da.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxL3O9gvRElTtXi3J8MpuRcEDsjrSToE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182577790958-6junmjmirpv2vpll34skqpn7a5jgp4da.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182577790958-ninpoj66clg2gts1efpd0vduh643e26m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fazlerabbikhan.nutriSuggest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

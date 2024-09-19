@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"nutri-suggest","appId":"1:182577790958:android:c4773e8e3253c9cd3398ff","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"nutri-suggest","configurations":{"android":"1:182577790958:android:c4773e8e3253c9cd3398ff","ios":"1:182577790958:ios:36ac0bf8ff2e385e3398ff"}}}}}}
